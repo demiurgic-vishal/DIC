@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<icpml version="1.0">
+<files>
+  <reference>final-000_0.tif</reference>
+  <deformed>final-010_0.tif</deformed>
+  <deformed>final-020_0.tif</deformed>
+  <deformed>final-030_0.tif</deformed>
+  <deformed>final-040_0.tif</deformed>
+  <deformed>final-050_0.tif</deformed>
+  <deformed>final-060_0.tif</deformed>
+  <deformed>final-070_0.tif</deformed>
+  <deformed>final-080_0.tif</deformed>
+  <deformed>final-090_0.tif</deformed>
+  <deformed>final-100_0.tif</deformed>
+  <deformed>final-110_0.tif</deformed>
+  <datafile>D:/data/al-tensile-2d/final-010_0.out</datafile>
+  <datafile>D:/data/al-tensile-2d/final-020_0.out</datafile>
+  <datafile>D:/data/al-tensile-2d/final-030_0.out</datafile>
+  <datafile>D:/data/al-tensile-2d/final-040_0.out</datafile>
+  <datafile>D:/data/al-tensile-2d/final-050_0.out</datafile>
+  <datafile>D:/data/al-tensile-2d/final-060_0.out</datafile>
+  <datafile>D:/data/al-tensile-2d/final-070_0.out</datafile>
+  <datafile>D:/data/al-tensile-2d/final-080_0.out</datafile>
+  <datafile>D:/data/al-tensile-2d/final-090_0.out</datafile>
+  <datafile>D:/data/al-tensile-2d/final-100_0.out</datafile>
+  <datafile>D:/data/al-tensile-2d/final-110_0.out</datafile>
+</files>
+<aoi type="Polygon" subsetsize="29" spacing="5">
+  <points>
+    525 233
+    788 237
+    783 809
+    514 808
+  </points>
+  <seed>659 251</seed>
+</aoi>
+</icpml>
